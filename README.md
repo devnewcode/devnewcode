@@ -63,14 +63,6 @@ Live: https://blog-application-lac-five.vercel.app/
 
 ---
 
-## 🎯 2026 Goals
-
-- Master advanced backend architecture
-- Build scalable SaaS products
-- Contribute to open source
-- Improve DevOps & system design skills
-
----
 
 ## 🤝 Connect With Me
 
