@@ -48,7 +48,7 @@ Live: [https://intelli-quiz-flax.vercel.app/](https://intelli-quiz-flax.vercel.a
 * Optimized backend for fast response and scalability
 * Clean UI with smooth user experience
 
-**Tech:** React • Node.js • Express • MongoDB
+**Tech:** Next.js • React.js • Node.js • Express • MongoDB
 
 ---
 
