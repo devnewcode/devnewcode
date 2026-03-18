@@ -13,38 +13,53 @@ I’m a Full Stack Developer currently pursuing **Master of Computer Application
 
 I specialize in building modern, scalable, and performance-focused web applications using the MERN stack and Next.js.
 
-- 🔹 700+ users handled in production event system
-- 🔹 Strong focus on clean code & maintainable architecture
-- 🔹 Passionate about backend systems & optimization
-- 🔹 Always learning & building
+* 🔹 700+ users handled in production event system
+* 🔹 Strong focus on clean code & maintainable architecture
+* 🔹 Passionate about backend systems & optimization
+* 🔹 Always learning & building
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**  
-React.js • Next.js • JavaScript • Redux • Tailwind CSS • HTML • CSS  
+**Frontend**
+React.js • Next.js • JavaScript • Redux • Tailwind CSS • HTML • CSS
 
-**Backend**  
-Node.js • Express.js • REST APIs  
+**Backend**
+Node.js • Express.js • REST APIs
 
-**Database**  
-MongoDB • MySQL  
+**Database**
+MongoDB • MySQL
 
-**Tools & DevOps**  
-Git • GitHub • Docker • Linux • Postman • CI/CD Concepts  
+**Tools & DevOps**
+Git • GitHub • Docker • Linux • Postman • CI/CD Concepts
 
 ---
 
 ## 🚀 Project Highlights
 
+### 🔹 IntelliQuiz (Full-Stack Quiz Platform)
+
+Live: [https://intelli-quiz-flax.vercel.app/](https://intelli-quiz-flax.vercel.app/)
+
+* Interactive quiz platform with dynamic question handling
+* Real-time score tracking and performance feedback
+* AI-powered features for enhanced quiz experience
+* Optimized backend for fast response and scalability
+* Clean UI with smooth user experience
+
+**Tech:** React • Node.js • Express • MongoDB
+
+---
+
 ### 🔹 Registration Management System
+
 Full-stack event registration platform built for Viplava 2024.
 
-- Handled 700+ registrations
-- Secure form validation & payment integration
-- Real-time admin monitoring
-- 99% uptime during live event
+* Handled 700+ registrations
+* Secure form validation & payment integration
+* Real-time admin monitoring
+* 99% uptime during live event
 
 **Tech:** React • Node.js • Express • MongoDB • Gmail API
 
@@ -52,21 +67,20 @@ Full-stack event registration platform built for Viplava 2024.
 
 ### 🔹 Full-Stack Blog Platform (Next.js)
 
-Live: https://blog-application-lac-five.vercel.app/
+Live: [https://blog-application-lac-five.vercel.app/](https://blog-application-lac-five.vercel.app/)
 
-- Custom markdown-based CMS
-- SSR & SSG for SEO optimization
-- Dynamic routing & syntax highlighting
-- Clean and performance-focused architecture
+* Custom markdown-based CMS
+* SSR & SSG for SEO optimization
+* Dynamic routing & syntax highlighting
+* Clean and performance-focused architecture
 
 **Tech:** Next.js • React • MongoDB • Gray-matter • React-Markdown
 
 ---
 
-
 ## 🤝 Connect With Me
 
-📧 devrathteotia2001@gmail.com  
+📧 [devrathteotia2001@gmail.com](mailto:devrathteotia2001@gmail.com)
 💼 LinkedIn: [Devrath Teotia](https://linkedin.com/in/devrath-teotia-2b7464268)
 
 ---
