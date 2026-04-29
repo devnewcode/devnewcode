@@ -42,13 +42,13 @@ Git • GitHub • Docker • Linux • Postman • CI/CD Concepts
 
 Live: [https://intelli-quiz-flax.vercel.app/](https://intelli-quiz-flax.vercel.app/)
 
-* Interactive quiz platform with dynamic question handling
-* Real-time score tracking and performance feedback
-* AI-powered features for enhanced quiz experience
-* Optimized backend for fast response and scalability
-* Clean UI with smooth user experience
+* Role-based platform for students, admins, and superadmins with JWT authentication
+* Timed assessments with question randomization, auto-submit, and tab-switch detection
+* AI-powered quiz generation and answer explanations via Google Gemini API
+* Analytics dashboard with performance insights and CSV export for admins
+* Scalable REST APIs with optimized MongoDB schemas using Mongoose
 
-**Tech:** Next.js • React.js • Node.js • Express • MongoDB
+**Tech:** Next.js • React.js • MongoDB • Mongoose • JWT • Google Gemini API
 
 ---
 
