@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Full Stack Developer currently pursuing **Master of Computer Applications (MCA)** at IMS Engineering College, Ghaziabad.
+I’m a Full Stack Developer and I have completed my **Master of Computer Applications (MCA)** from IMS Engineering College, Ghaziabad.
 
 I specialize in building modern, scalable, and performance-focused web applications using the MERN stack and Next.js.
 
